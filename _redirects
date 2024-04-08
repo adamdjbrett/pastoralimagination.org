@@ -1,0 +1,5 @@
+# short urls
+/book   https://pastoralimagination.com/
+
+# fallback
+/*      https://pastoralimagination.com/

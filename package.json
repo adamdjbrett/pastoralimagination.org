@@ -1,0 +1,7 @@
+{
+    "homepage": "https://baptizedandordained.com",
+    "homepage2": "https://baptizedandordained.org",
+    "scripts": {
+      "shorten": "netlify-shortener"
+    }
+  }
