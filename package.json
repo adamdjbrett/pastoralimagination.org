@@ -1,6 +1,6 @@
 {
-    "homepage": "https://baptizedandordained.com",
-    "homepage2": "https://baptizedandordained.org",
+    "homepage": "https://pastoralimagination.com/",
+    "homepage2": "https://pastoralimagination.org/",
     "scripts": {
       "shorten": "netlify-shortener"
     }
